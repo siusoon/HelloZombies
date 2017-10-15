@@ -3,9 +3,9 @@
 # Logic
 - getmails.php: Get spammer list (copy to server, unzip to txt from cron job-> other php)
 - index.php: 
-⋅⋅1 read the txt file and put into arrays
-⋅⋅2 display email in rolling with hyperlink effects
-⋅⋅3 Refresh for a certain period of time
+⋅⋅* read the txt file and put into arrays
+⋅⋅* display email in rolling with hyperlink effects
+⋅⋅* Refresh for a certain period of time
 
 # Background
 
