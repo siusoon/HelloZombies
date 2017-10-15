@@ -9,9 +9,11 @@
 
 # Background
 
-Title: Hello Zombies / 回轉喪屍
-Year of production: 2014
-Medium: Networked Installation
+**Title:** Hello Zombies / 回轉喪屍
+
+**Year of production:** 2014
+
+**Medium:** Networked Installation
 
 “We are with you everyday, we live in the Internet with peculiar addresses and enticing titbits, but you call us “spam”. We wander around the network, mindlessly, and you wanted to trash us, but we are still everywhere. We are just the children of your economic and social system, but you ignore and avoid us. We are not dead, we write, we create.”
 
